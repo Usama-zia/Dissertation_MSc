@@ -41,7 +41,6 @@ For the purpose of this Reserach changes have been made into files with addresse
 
 - mmf/mmf/models/visual_bert.py
 
-Complete code is also available in report under section Appendix. 
 - cuda version must be 10.2 for the code to work.
 
 ## Training 
